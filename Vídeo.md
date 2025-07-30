@@ -6,3 +6,4 @@
 
 ![K=3](https://github.com/yadziry/kmeans/raw/main/k3.png)  
 
+#link: https://colab.research.google.com/drive/1omRsoJw1fhQ7KP9gcOLrKW8ImzATzTJA?usp=sharing
